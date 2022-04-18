@@ -15,6 +15,3 @@ The course teaches a wide range of topics to know for Spring Data JPA and goes o
 - Transactions
 <br>
 <br>
-![Database Design Diagram of the project](https://www.filepicker.io/api/file/HO32BW79TvmFnrMtE9mf)
-![Hibernate Entity Lifecycle](https://www.filepicker.io/api/file/UfnqU7j2T4OUDRMcRKgT)
-![How Spring Data JPA Works](https://www.filepicker.io/api/file/ZHkueioSAyId998UDl6y)
